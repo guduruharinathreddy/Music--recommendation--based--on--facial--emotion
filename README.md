@@ -24,6 +24,12 @@ This project recommends music based on the user’s facial emotions. It uses com
 
 ## 📂 Project Structure
 ---
+# Install required libraries
+pip install opencv-python
+pip install deepface
+pip install tensorflow
+pip install keras
+pip install numpy
 
 ## ▶️ How to Run the Project
 1. Clone the repository:
